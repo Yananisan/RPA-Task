@@ -1,0 +1,10 @@
+D:\SeleniumExcelEmail\SeleniumExcelEmail\bin\Debug\SeleniumExcelEmail.exe.config
+D:\SeleniumExcelEmail\SeleniumExcelEmail\bin\Debug\SeleniumExcelEmail.exe
+D:\SeleniumExcelEmail\SeleniumExcelEmail\bin\Debug\SeleniumExcelEmail.pdb
+D:\SeleniumExcelEmail\SeleniumExcelEmail\bin\Debug\WebDriver.dll
+D:\SeleniumExcelEmail\SeleniumExcelEmail\bin\Debug\WebDriver.xml
+D:\SeleniumExcelEmail\SeleniumExcelEmail\obj\Debug\SeleniumExcelEmail.csprojAssemblyReference.cache
+D:\SeleniumExcelEmail\SeleniumExcelEmail\obj\Debug\SeleniumExcelEmail.csproj.CoreCompileInputs.cache
+D:\SeleniumExcelEmail\SeleniumExcelEmail\obj\Debug\SeleniumExcelEmail.csproj.CopyComplete
+D:\SeleniumExcelEmail\SeleniumExcelEmail\obj\Debug\SeleniumExcelEmail.exe
+D:\SeleniumExcelEmail\SeleniumExcelEmail\obj\Debug\SeleniumExcelEmail.pdb
